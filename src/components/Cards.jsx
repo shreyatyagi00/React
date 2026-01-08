@@ -30,7 +30,7 @@ const Cards = ({props}) => {
           </div>
           <div>
           <h4 className='text-black text-center ml-2'>{props.viewsCount}</h4>
-          <p className='text-gray-600 text-sm text-center'>Views</p>
+          <p className='text-gray-600 text-sm text-center'>View</p>
           </div>
         </div>
         <button
